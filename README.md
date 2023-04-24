@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Social-merit or Economic-merit.
-- 👀 I’have done interested projects as a Web and app developer,
-- 🌱 I’m currently mastering skills in Machine Learning and the Deep Learning filed.
-- - 🌱 I’m famaler with this programing languages C&C++, JavaScript, Python, C#, Dart and Golang
-- 💞️ I’m not looking for but open to collaborate voluntarily on social projects
+- 👋 Hi, I’m Babatunde Monye. I’ve done interesting projects as a web and app developer.
+- 🌱 I’m currently mastering skills in Machine learning and Deep learning fields. 
+- 🌱 I'm familiar with the following programming languages: C and C++, JavaScript, Python, C#, Dart, and Golang. 
+- 💞️ I’m not looking for a job but am open to an offer or to collaborating on social projects.
+
 6 - 📫 i can be reached either by an email or social Media @ via LinkedIn @babatunde-monye-08739465
 7
 8
