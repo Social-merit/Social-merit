@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Babatunde Monye developer .
-- 🌱 I’m currently mastering skills in Machine learning and Deep learning fields. 
+- 👋 
+- 🌱 mastering skills in Machine learning and Deep learning fields. 
 - 🌱 I'm familiar with the following programming languages: C and C++, JavaScript, Python, C#, Dart, and Golang. 
 - 💞️ I’m not looking for a job but am open to an offer or to collaborating on social projects.
 
